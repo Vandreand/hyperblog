@@ -4,3 +4,5 @@ estoy demasiado aburrido y bueno eso es todo.
 Pero bueno asi es la vida
 
 hablemos de esta historia
+
+y seguimos trabajando este tema de git
