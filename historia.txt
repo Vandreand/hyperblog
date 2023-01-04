@@ -6,3 +6,5 @@ Pero bueno asi es la vida
 hablemos de esta historia
 
 y seguimos trabajando este tema de git
+
+hoy estoy en clase de git
