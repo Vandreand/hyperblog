@@ -9,4 +9,6 @@ y seguimos trabajando este tema de git
 
 master 1
 
+master 2
+
 hoy estoy en clase de git
