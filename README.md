@@ -6,3 +6,5 @@ Un blog para el curso de Git y Github de Platzi.
 * El flujo de trabajo en Github
 * Las buenas prácticas
 * Trucos
+* Asignar responsabilidades en Github
+* Crear forks y hacer merge request
