@@ -9,3 +9,4 @@ Un blog para el curso de Git y Github de Platzi.
 * Asignar responsabilidades en Github
 * Crear forks y hacer merge request
 * incluye ejemplos en windows, linux y mac
+* apto para todo el publico
